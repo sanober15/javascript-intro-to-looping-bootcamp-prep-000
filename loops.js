@@ -14,7 +14,7 @@ function whileLoop(n){
   var x = n +1;
   while(x>0){
     console.log(--x);
-    
+
   }
-  
+
 }
