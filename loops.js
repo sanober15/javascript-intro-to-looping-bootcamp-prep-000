@@ -11,10 +11,10 @@ function forLoop(array){
 }
 
 function whileLoop(n){
-  var x = n;
+  var x = n +1;
   while(x>0){
-    console.log(x);
-    return x--;
+    console.log(--x);
+    
   }
   
 }
