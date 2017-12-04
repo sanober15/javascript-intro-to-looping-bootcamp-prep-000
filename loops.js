@@ -9,3 +9,12 @@ function forLoop(array){
   }
   return array;
 }
+
+function whileLoop(n){
+  var x = n;
+  while(x>0){
+    console.log(x);
+    return x--;
+  }
+  
+}
